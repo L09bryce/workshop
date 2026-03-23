@@ -1,3 +1,3 @@
 ## Github session atendees
 
-- Lawrence Kimani
+- Lawrence Macharia
