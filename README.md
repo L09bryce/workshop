@@ -2,3 +2,4 @@
 
 - Lawrence Macharia
 - Henri Ouma
+-Bryce Gichuhi
